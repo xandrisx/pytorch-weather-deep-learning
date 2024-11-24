@@ -63,9 +63,9 @@ This dataset is particularly suitable because it:
     -Normalization using ImageNet statistics
 
 ## 📝 Installation & Usage
-### Option 1: Google Colab (Recommended)
-
-    -Open the provided Colab notebook: https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xandrisx/pytorch-weather-deep-learning/blob/main/pytorch-weather-deep-learning.ipynb
+### Google Colab 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xandrisx/pytorch-weather-deep-learning/blob/main/pytorch-weather-deep-learning.ipynb)
+    -Open the provided Colab notebook: 
     -Mount your Google Drive
     -Upload the dataset to your Drive
     -Run all cells sequentially
