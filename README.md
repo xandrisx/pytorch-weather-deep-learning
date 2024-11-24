@@ -65,7 +65,7 @@ This dataset is particularly suitable because it:
 ## 📝 Installation & Usage
 ### Option 1: Google Colab (Recommended)
 
-    -Open the provided Colab notebook: 
+    -Open the provided Colab notebook: https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xandrisx/pytorch-weather-deep-learning/blob/main/pytorch-weather-deep-learning.ipynb
     -Mount your Google Drive
     -Upload the dataset to your Drive
     -Run all cells sequentially
