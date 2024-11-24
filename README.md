@@ -69,17 +69,6 @@ This dataset is particularly suitable because it:
     -Mount your Google Drive
     -Upload the dataset to your Drive
     -Run all cells sequentially
-Option 2: Local Installation
-
-python
-# Clone repository
-git clone [repository-url]
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python main.py
 
 ## 📊 Results & Evaluation
 
