@@ -54,7 +54,7 @@ This dataset is particularly suitable because it:
     -Batch Size: 32
     -Optimizer: Adam (lr=0.001)
     -Loss Function: CrossEntropyLoss
-    -Epochs: 20
+    -Epochs: 50
 
 ### Data Preprocessing
 
